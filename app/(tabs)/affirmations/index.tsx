@@ -20,7 +20,7 @@ const Page = () => {
             >
                 <ScrollView showsVerticalScrollIndicator={false}>
                     <Text className="text-zinc-50 text-3xl font-bold">
-                        Change your beliefs with affirmations
+                        Scales for Pain and Emotions
                     </Text>
                     <View>
                         {AFFIRMATION_GALLERY.map((g) => (
