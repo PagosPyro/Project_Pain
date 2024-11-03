@@ -19,7 +19,7 @@ const Page = () => {
             <Tabs.Screen
                 name="nature-meditate"
                 options={{
-                    tabBarLabel: "Meditate",
+                    tabBarLabel: "Calming Stratergies",
                     tabBarIcon: ({ color }) => (
                         <MaterialCommunityIcons
                             name="flower-tulip"
@@ -32,7 +32,7 @@ const Page = () => {
             <Tabs.Screen
                 name="affirmations"
                 options={{
-                    tabBarLabel: "Affirmations",
+                    tabBarLabel: "Pain Scales",
                     tabBarIcon: ({ color }) => (
                         <Entypo name="open-book" size={24} color={color} />
                     ),
