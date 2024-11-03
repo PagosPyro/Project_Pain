@@ -10,10 +10,10 @@ import Face3 from "@/assets/Pain-Images/3 face.webp";
 import Face4 from "@/assets/Pain-Images/4 face.webp";
 import Face5 from "@/assets/Pain-Images/5 face.webp";
 
-import mountainMeditateOne from "@/assets/Pain-Images/Joy.jpg";
-import mountainMeditateTwo from "@/assets/Pain-Images/Stress.jpg";
-import mountainMeditateThree from "@/assets/Pain-Images/Anxiety.jpg";
-import mountainMeditateFour from "@/assets/Pain-Images/Fear.jpg";
+import Joy from "@/assets/Pain-Images/Joy.jpg";
+import Stress from "@/assets/Pain-Images/Stress.jpg";
+import Anxiety from "@/assets/Pain-Images/Anxiety.jpg";
+import Fear from "@/assets/Pain-Images/Fear.jpg";
 
 import Burning from "@/assets/Pain-Images/Burning.jpg";
 import Sharp from "@/assets/Pain-Images/Sharp.jpg";
@@ -43,10 +43,10 @@ export default {
     Face3,
     Face4,
     Face5,
-    mountainMeditateOne,
-    mountainMeditateTwo,
-    mountainMeditateThree,
-    mountainMeditateFour,
+    Joy,
+    Stress,
+    Anxiety,
+    Fear,
     Burning,
     Sharp,
     Shooting,
