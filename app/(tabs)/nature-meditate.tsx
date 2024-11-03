@@ -28,7 +28,7 @@ const Page = () => {
                         Welcome Steven
                     </Text>
                     <Text className="text-indigo-100 text-xl font-medium">
-                        Start your meditation practice today
+                        Use these to stay calm in stressfull situations
                     </Text>
                 </View>
                 <View>

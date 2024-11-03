@@ -10,30 +10,27 @@ import Face3 from "@/assets/Pain-Images/3 face.webp";
 import Face4 from "@/assets/Pain-Images/4 face.webp";
 import Face5 from "@/assets/Pain-Images/5 face.webp";
 
-import mountainMeditateOne from "@/assets/affirmation-images/mountain-meditate-1.webp";
-import mountainMeditateTwo from "@/assets/affirmation-images/mountain-meditate-2.webp";
-import mountainMeditateThree from "@/assets/affirmation-images/mountain-meditate-3.webp";
-import mountainMeditateFour from "@/assets/affirmation-images/mountain-meditate-4.webp";
+import mountainMeditateOne from "@/assets/Pain-Images/Joy.jpg";
+import mountainMeditateTwo from "@/assets/Pain-Images/Stress.jpg";
+import mountainMeditateThree from "@/assets/Pain-Images/Anxiety.jpg";
+import mountainMeditateFour from "@/assets/Pain-Images/Fear.jpg";
 
-import nightSkyOne from "@/assets/affirmation-images/night-sky-1.webp";
-import nightSkyTwo from "@/assets/affirmation-images/night-sky-2.webp";
-import nightSkyThree from "@/assets/affirmation-images/night-sky-3.webp";
-import nightSkyFour from "@/assets/affirmation-images/night-sky-4.webp";
+import Burning from "@/assets/Pain-Images/Burning.jpg";
+import Sharp from "@/assets/Pain-Images/Sharp.jpg";
+import Shooting from "@/assets/Pain-Images/Shooting.jpg";
+import Throbbing from "@/assets/Pain-Images/Throbing.jpg";
+import Explosive from "@/assets/Pain-Images/Explosive.jpg";
+import Cramping from "@/assets/Pain-Images/Cramping.jpg";
 
-import oregonOne from "@/assets/affirmation-images/oregon-1.webp";
-import oregonTwo from "@/assets/affirmation-images/oregon-2.webp";
-import oregonThree from "@/assets/affirmation-images/oregon-3.webp";
-import oregonFour from "@/assets/affirmation-images/oregon-4.webp";
-
-import relaxingRiverOne from "@/assets/affirmation-images/relaxing-river-1.webp";
-import relaxingRiverTwo from "@/assets/affirmation-images/relaxing-river-2.webp";
-import relaxingRiverThree from "@/assets/affirmation-images/relaxing-river-3.webp";
-import relaxingRiverFour from "@/assets/affirmation-images/relaxing-river-4.webp";
-
-import tuscannyOne from "@/assets/affirmation-images/Tuscanny-1.webp";
-import tuscannyTwo from "@/assets/affirmation-images/Tuscanny-2.webp";
-import tuscannyThree from "@/assets/affirmation-images/Tuscanny-3.webp";
-import tuscannyFour from "@/assets/affirmation-images/Tuscanny-4.webp";
+import Ecstatic from "@/assets/Pain-Images/Ecstatic.webp";
+import Confident from "@/assets/Pain-Images/Confident.webp";
+import Happy from "@/assets/Pain-Images/Happy.webp";
+import Mischievous from "@/assets/Pain-Images/Mischievous.webp";
+import Skeptical from "@/assets/Pain-Images/Skeptical.webp";
+import Sad from "@/assets/Pain-Images/Sad.webp";
+import Scared from "@/assets/Pain-Images/Scared.webp";
+import Angry from "@/assets/Pain-Images/Angry.webp";
+import Enraged from "@/assets/Pain-Images/Enraged.webp";
 
 export default {
     ColourGreen,
@@ -50,20 +47,19 @@ export default {
     mountainMeditateTwo,
     mountainMeditateThree,
     mountainMeditateFour,
-    nightSkyOne,
-    nightSkyTwo,
-    nightSkyThree,
-    nightSkyFour,
-    oregonOne,
-    oregonTwo,
-    oregonThree,
-    oregonFour,
-    relaxingRiverOne,
-    relaxingRiverTwo,
-    relaxingRiverThree,
-    relaxingRiverFour,
-    tuscannyOne,
-    tuscannyTwo,
-    tuscannyThree,
-    tuscannyFour,
+    Burning,
+    Sharp,
+    Shooting,
+    Throbbing,
+    Explosive,
+    Cramping,
+    Ecstatic,
+    Confident,
+    Happy,
+    Mischievous,
+    Skeptical,
+    Sad,
+    Scared,
+    Angry,
+    Enraged,
 };
